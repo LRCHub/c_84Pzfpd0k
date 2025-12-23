@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "旅立ちの日に･･･",
+  "base_artist": "川嶋あい",
+  "createdAt": "2025-12-23T02:45:59.804317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅立ちの日に･･･",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/01_旅立ちの日に・・・_川嶋あい.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旅立ちの日に… (合唱ver.)",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/02_旅立ちの日に..._(合唱ver.)_川嶋あい.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "旅立ちの日に（混三）",
+      "artist": "渡瀬昌治",
+      "has_synced": true,
+      "path": "select/03_旅立ちの日に(混三)_渡瀬昌治.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "旅立ちの日に･･･",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/04_旅立ちの日に・・・_川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "旅立ちの日に",
+      "artist": "平松剛一",
+      "has_synced": true,
+      "path": "select/05_旅立ちの日に_平松剛一.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "旅立ちの日に･･･",
+      "artist": "Ai Kawashima",
+      "has_synced": true,
+      "path": "select/06_旅立ちの日に・・・_Ai_Kawashima.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "旅立ちの日に…",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/07_旅立ちの日に..._川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "旅立ちの日に（ハ長調版）",
+      "artist": "練馬児童合唱団",
+      "has_synced": true,
+      "path": "select/08_旅立ちの日に(ハ長調版)_練馬児童合唱団.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "旅立ちの日に",
+      "artist": "Chris Hart",
+      "has_synced": true,
+      "path": "select/09_旅立ちの日に_Chris_Hart.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "旅立ちの日に···",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/10_旅立ちの日に···_川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "旅立ちの日に",
+      "artist": "練馬児童合唱団",
+      "has_synced": true,
+      "path": "select/11_旅立ちの日に_練馬児童合唱団.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "旅立ちの日に･･･",
+      "artist": "川嶋あい",
+      "has_synced": true,
+      "path": "select/12_旅立ちの日に・・・_川嶋あい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅立ちの日に…",
+      "artist": "川嶋 あい",
+      "has_synced": false,
+      "path": "select/pl_01_旅立ちの日に..._川嶋_あい.txt"
+    }
+  ]
+}
