@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "旅立ちの日に･･･",
   "base_artist": "川嶋あい",
-  "createdAt": "2025-12-23T02:45:59.804317Z",
+  "createdAt": "2026-03-19T07:12:51.930751Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -99,6 +99,22 @@
       "artist": "川嶋あい",
       "has_synced": true,
       "path": "select/12_旅立ちの日に・・・_川嶋あい.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tr1 旅立ちの日に",
+      "artist": "さーべるたいにゃー",
+      "has_synced": true,
+      "path": "select/13_Tr1_旅立ちの日に_さーべるたいにゃー.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "旅立ちの日に",
+      "artist": "中孝介",
+      "has_synced": true,
+      "path": "select/14_旅立ちの日に_中孝介.lrc"
     },
     {
       "id": "petitlyrics_1",
